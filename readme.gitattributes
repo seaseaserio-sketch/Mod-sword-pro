@@ -1,4 +1,1 @@
-*.java linguist-language=Java
-*.json linguist-vendored
-*.plugin linguist-vendored
-gradle/* linguist-vendored
+a mod made with effort
