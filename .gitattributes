@@ -1,0 +1,5 @@
+.gitat*.java linguist-language=Java
+*.json linguist-vendored
+*.plugin linguist-vendored
+gradle/* linguist-vendored
+tributes
